@@ -1,0 +1,9 @@
+Notes:
+
+assumption: Python3 is installed
+
+pip install Flask     --- only once
+pip install waitress  --- only once
+pip install requests  --- only once
+
+python main.py
